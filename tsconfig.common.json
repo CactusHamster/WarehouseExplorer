@@ -14,6 +14,8 @@
         "noImplicitAny": true,
         "declaration": true,
         "types": [],
-        "composite": true
+        "composite": true,
+        // NodeNext requires naming all imports to `*.js`.
+        "moduleResolution": "classic"
     }
 }
