@@ -1,0 +1,10 @@
+// Empty... The common config is pretty good!
+{
+    "extends": "../../../tsconfig.common.json",
+    "compilerOptions": {
+        "outDir": "./dist",
+        "rootDir": "./src",
+    },
+    "include": ["src/**/*"],
+    "exclude": ["node_modules", "dist"],
+}

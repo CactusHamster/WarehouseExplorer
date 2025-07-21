@@ -13,8 +13,8 @@
     "variants": [],
     "projects": [
         {
-            "packageName": "MapStruct",
-            "projectFolder": "packages/libs/MapStruct",
+            "packageName": "mapstruct",
+            "projectFolder": "packages/libs/mapstruct",
             "shouldPublish": false
         }
     ]
