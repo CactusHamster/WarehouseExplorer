@@ -1,0 +1,26 @@
+{
+    "extends": "../../../tsconfig.common.json",
+    "compilerOptions": {
+        "target": "es2024",
+        "module": "es2022",
+        "jsx": "react-jsx",
+        "resolveJsonModule": true,
+        "allowJs": true,
+        "moduleResolution": "bundler",
+        "esModuleInterop": true,
+        "skipLibCheck": true,
+        "forceConsistentCasingInFileNames": true,
+        "outDir": "./dist",
+        "lib": [
+            "DOM",
+            "ES2024"
+        ],
+        "types": [
+            "react",
+            "react-dom",
+        ]
+    },
+    "include": [
+        "src"
+    ]
+}

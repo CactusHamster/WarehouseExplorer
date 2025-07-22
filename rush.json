@@ -16,6 +16,11 @@
             "packageName": "mapstruct",
             "projectFolder": "packages/libs/mapstruct",
             "shouldPublish": false
+        },
+        {
+            "packageName": "warehouse-explorer-app",
+            "projectFolder": "packages/apps/wh-explorer-app",
+            "shouldPublish": false
         }
     ]
 }

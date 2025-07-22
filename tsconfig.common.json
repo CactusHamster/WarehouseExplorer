@@ -7,6 +7,7 @@
         "allowSyntheticDefaultImports": true,
         "strict": true,
         "skipLibCheck": true,
+        // thanks windows DOS compat
         "forceConsistentCasingInFileNames": true,
         "isolatedModules": true,
         "resolveJsonModule": false,
